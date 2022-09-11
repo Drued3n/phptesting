@@ -1,0 +1,9 @@
+# Default ignored files
+/cache/
+/images/
+/other/
+/TEMP_not_project/
+/htaccess.txt
+/htaccess-nginx.txt
+/tables_test.txt
+/users_test.txt
